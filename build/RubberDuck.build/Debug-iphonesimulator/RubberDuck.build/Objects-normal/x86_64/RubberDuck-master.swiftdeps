@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "09002e34eeaf918d68c0c092e333a08d"
+build_time: [522545793, 621770000]
+inputs:
+  "/Users/HL/Documents/Courses/HCI/HCI cute project iOS/RubberDuck/RubberDuck/ViewController.swift": [515484141, 0]
+  "/Users/HL/Documents/Courses/HCI/HCI cute project iOS/RubberDuck/RubberDuck/AppDelegate.swift": [515184456, 0]
