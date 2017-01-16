@@ -8,3 +8,6 @@ more than only a spirit level (like a ruler).
 Thus I think, it might be difficult for me to come up with a better one, 
 but I can definitely develop a much cuter one – the Rubber Duck Spirit Level.
 
+Here is how the appliation looks like on my phone.
+
+![demo](Screenshots/Duck.gif)
