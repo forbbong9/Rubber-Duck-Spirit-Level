@@ -10,4 +10,4 @@ but I can definitely develop a much cuter one – the Rubber Duck Spirit Level.
 
 Here is how the appliation looks like on my phone.
 
-![demo](Screenshots/Duck.gif)
+<img src="Screenshots/Duck.gif" alt="Duck" width="350"/>
