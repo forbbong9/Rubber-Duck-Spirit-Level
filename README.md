@@ -1,7 +1,7 @@
 # Rubber-Duck-Spirit-Level
 This is a project from my Spring 2016 semester, CS6326 Human Computer Interaction course.
 
-###Project discription:
+### Project discription:
 There are already a lot good spirit level applications already published in App Store, 
 some have clean and simple interface, and some have strong functionalities 
 more than only a spirit level (like a ruler). 
